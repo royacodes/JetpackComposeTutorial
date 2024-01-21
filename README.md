@@ -52,4 +52,18 @@ https://developer.android.com/jetpack/compose/lifecycle#lifecycle-overview
 
  # Kotlin Lambda Function
 
+ # Commands
+
+### clean the Gradle cache and re-download dependencies:
+
+ ./gradlew clean build --refresh-dependencies
+
+### stop all Gradle daemons:
+
+  ./gradlew --stop
+
+
+
+ 
+
  
