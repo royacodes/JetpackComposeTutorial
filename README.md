@@ -62,6 +62,10 @@ https://developer.android.com/jetpack/compose/lifecycle#lifecycle-overview
 
   ./gradlew --stop
 
+### for build project (navhost, Destination,...)
+
+     ./gradlew kspDebugKotlin
+
 
 
  
